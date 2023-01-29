@@ -14,7 +14,6 @@ The widgets have been developed with the guidance of YouTube Tutorial Codes.
 
 | Question   |   Widget Type           | Folder Path                                                                       |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------- |
-
 | Question 1 | Container and Padding   | container_padding/padding_container/lib/main.dart                                 |
 | Question 2 | Constrained box         | constrainedbox/rotated_box/lib/main.dart                                          |
 | Question 3 | Size box                | flutter_sizebox/size_box/lib                                                      |
