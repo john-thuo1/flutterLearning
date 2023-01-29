@@ -6,10 +6,6 @@ which have been implemented within the same project.
 
 The widgets have been developed with the guidance of YouTube Tutorial Codes.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
 | Question   |   Widget Type           | Folder Path                                                                       |
