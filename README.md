@@ -6,10 +6,14 @@ which have been implemented within the same project.
 
 The widgets have been developed with the guidance of YouTube Tutorial Codes.
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 | Question   |   Widget Type           | Folder Path                                                                       |
-|------------|-------------------------|-----------------------------------------------------------------------------------|
+| ---------- | ----------------------- | --------------------------------------------------------------------------------- |
 
 | Question 1 | Container and Padding   | container_padding/padding_container/lib/main.dart                                 |
 | Question 2 | Constrained box         | constrainedbox/rotated_box/lib/main.dart                                          |
